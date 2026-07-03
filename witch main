@@ -1,0 +1,60 @@
+[33mcommit 06e75b473bb9d0d46c4e9afc21781308e2f2be5a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 5465465 a5d6c8d
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Fri Jul 3 13:36:17 2026 +0200
+
+    Correccion Conflicto
+
+[33mcommit a5d6c8d07bf28355cb868d191081d3b419dfbef0[m[33m ([m[1;32mmain[m[33m)[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Fri Jul 3 13:34:23 2026 +0200
+
+    Login4
+
+[33mcommit 5465465ee00d478364ac93ec7faf515d6fbf163e[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Fri Jul 3 13:32:36 2026 +0200
+
+    Login3
+
+[33mcommit a93e69fa5f636179f70b1083441f6f677f49c9f0[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Fri Jul 3 13:22:58 2026 +0200
+
+    Login2
+
+[33mcommit a09aa0c0cc320c41f72342016959b9a09defb91b[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Fri Jul 3 13:20:58 2026 +0200
+
+    Login
+
+[33mcommit 8c9b2ece8db8d89a8bb4b69dc210bc925882b00c[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Fri Jul 3 13:09:50 2026 +0200
+
+    Este es mi quinto commit
+
+[33mcommit e65befc2ee908367ac6e8ce5641f9aa32ad02c2e[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Thu Jul 2 17:00:46 2026 +0200
+
+    Se añade el -gitignore
+
+[33mcommit b362a599e9c3faea768ca17796b19f68ce81bdd5[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Thu Jul 2 16:51:14 2026 +0200
+
+    Se actualiza el texto el print
+
+[33mcommit 5af24028c7212cf01fb73a3378c61910b4b086a9[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Thu Jul 2 16:45:22 2026 +0200
+
+    Este es mi segundo commit
+
+[33mcommit 1e93bd16e8653909a22272e926d6c56b119ad896[m
+Author: Jose <jmpulidoh@yahoo.es>
+Date:   Thu Jul 2 16:39:36 2026 +0200
+
+    Este es mi primer commit
