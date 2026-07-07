@@ -1,3 +1,0 @@
-[remote "origin"]
-  url = git@github.com:jmpulidoh/hello-git.git
-  fetch = +refs/heads/*:refs/remotes/origin/*
